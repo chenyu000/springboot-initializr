@@ -14,6 +14,8 @@ public class SpringbootInitializrApplication {
 
         SpringApplication.run(SpringbootInitializrApplication.class, args);
         System.out.print("I am super boy!");
+        System.out.print("I am super boy too!");
+        
     }
 
 }
