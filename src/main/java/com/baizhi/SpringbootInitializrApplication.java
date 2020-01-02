@@ -13,6 +13,7 @@ public class SpringbootInitializrApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(SpringbootInitializrApplication.class, args);
+        System.out.print("I am super boy!");
     }
 
 }
